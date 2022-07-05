@@ -49,7 +49,6 @@ public class ArraySearch {
 		}
 		
 		int num=0;
-		boolean provide = false;
 		
 		String searchingValue;
 		
